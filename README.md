@@ -152,3 +152,4 @@ fnExtensionsCallForward(){
     asterisk -rx "database show CW" | sed -rn "s/.*CW.([0-9]{4}).*: (.*)/\1/p"
 }
 ~~~
+# [2. Scripts in other languages](miscellaneous-scripts.md)
