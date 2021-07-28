@@ -3,7 +3,7 @@ The codes are not tutorial , are example only, just to show the possibilities. S
 
 ## 1. Shell Script
 
-Example of using shell script to automate tasks, resolve temporary issues, troubleshoot and connect different platforms.
+Example using shell script to automate tasks, resolve temporary issues, troubleshoot and connect different platforms.
 
 ### 1.1 - Zabbix
 To monitor backup software using remote SQL query.
