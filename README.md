@@ -1,13 +1,14 @@
 # Introduction
-The codes are not tutorial , are example only, just to show the possibilities. Some are purposely incomplete.
+The following codes are not intended to serve as tutorials but to showcase possibilities. Some of them are intentionally incomplete.
 
 ## 1. Shell Script
 
-Example using shell script to automate tasks, resolve temporary issues, troubleshoot and connect different platforms.
+Example utilizing shell script to automate tasks, addressing urgent issues in a temporary way, troubleshoot, and establish connections across different platforms.
 
 ### 1.1 - Zabbix
-To monitor backup software using remote SQL query.
-For example for check if exist restore in last 30 days and all last 7 days backups in postgresql database bacula using parameter.
+Monitoring backup software using a remote SQL query.
+For example, to check if there are any restores in the last 30 days and all backups from the last 7 days in the PostgreSQL database for Bacula using a parameter.
+
 - - -
 > UserParameter=check.restore[\*], **/opt/zabbix_script.sh  _last-restored_**  
 > UserParameter=check.backup[\*], **/opt/zabbix_script.sh  last-backups_**
