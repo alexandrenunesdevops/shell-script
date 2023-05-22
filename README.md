@@ -6,7 +6,7 @@ The following codes are not intended to serve as tutorials but to showcase possi
 Example utilizing shell script to automate tasks, addressing urgent issues in a temporary way, troubleshoot, and establish connections across different platforms.
 
 ### 1.1 - Zabbix
-Monitoring backup software using a remote SQL query.
+Monitoring backup software using a remote SQL query.\b 
 For example, to check if there are any restores in the last 30 days and all backups from the last 7 days in the PostgreSQL database for Bacula using a parameter.
 
 - - -
